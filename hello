@@ -1,6 +1,11 @@
 asdfas dfasdf sadf asdf
+<<<<<<< HEAD
 Hello from feature
 
 Hello from latest 
 
 Hello from New! 
+=======
+Hello ..
+Hello from latest 
+>>>>>>> 3d16a53 (Update hello from latest)
